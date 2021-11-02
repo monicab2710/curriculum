@@ -1,0 +1,51 @@
+header {
+  background-color: #e5e5e5;
+  letter-spacing: 50em;
+}
+
+h1 {
+  background-color: #c4c4c4;
+}
+
+#referencia-contacto {
+  background-color: #005677;
+  color: #ffffff;
+  text-align: center;
+}
+
+h1 {
+  background-color: #c4c4c4;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+h2 {
+  background-color: #c4c4c4;
+  letter-spacing: 10px;
+}
+.academica {
+  font-weight: bold;
+}
+
+.portada {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 200px;
+}
+
+.icono {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  padding-left: 5px;
+}
+
+.footer-container {
+  background-color: #005677;
+}
+
+.footer-table {
+  margin-left: auto;
+  margin-right: auto;
+}
